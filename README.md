@@ -18,3 +18,4 @@ https://github.com/MiSTer-devel/ShadowMasks_MiSTer
 You can also find out more info on how to make your own here as well as some more options:
 https://github.com/birdybro/ShadowMasks_MiSTer
 
+Wiki with previews will be added eventually.
