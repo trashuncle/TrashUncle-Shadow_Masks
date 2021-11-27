@@ -1,7 +1,7 @@
 # TrashUncle-Shadow_Masks
 Shadow Mask filters meant to be used with MiSTer FPGA
 
-These have only been tested at 1080p, 5x Crop, 1x Mask, with Integer Scaling.
+These have only been tested at 1080p, 5x Crop, 1x Mask, with V Integer Scaling.
 My suggested scanline filter to go with most of these is 120 Brightness / 10 Soft. 
 For those labeled Scanline FX, please disable Scanline filter.
 If there are issues at other resolutions, please let me know.
