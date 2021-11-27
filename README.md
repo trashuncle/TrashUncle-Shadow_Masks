@@ -10,3 +10,5 @@ https://github.com/birdybro/ShadowMasks_MiSTer
 I suggest starting with Trinitron_Simple_Bright.txt
 
 Each one has it's own charm, but a lot of them are just to test to see what can be done.
+
+If you would like a sorted version, download the TrashUncle Masks (Sorted).zip
