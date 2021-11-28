@@ -1,4 +1,7 @@
 # TrashUncle-Shadow_Masks
+This repo has depreciated, changes now are commited to Main: https://github.com/MiSTer-devel/ShadowMasks_MiSTer
+
+
 Shadow Mask filters meant to be used with MiSTer FPGA
 
 Previews here: https://github.com/trashuncle/TrashUncle-Shadow_Masks/wiki/TrashUncle's-Shadow-Mask-Pack-for-MiSTer-FPGA
