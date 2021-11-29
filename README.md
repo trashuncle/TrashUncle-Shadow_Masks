@@ -7,9 +7,10 @@ https://github.com/trashuncle/ShadowMasks_MiSTer
 Main repo here: 
 https://github.com/MiSTer-devel/ShadowMasks_MiSTer
 
-Make your own shadowmasks for MiSTer: https://bool.space/mister/ShadowMaskEditor.htm
+Make your own shadowmasks for MiSTer:
+https://bool.space/mister/ShadowMaskEditor.htm
 
-This tool was created by Tonurics
+This tool was created by Tonurics:
 https://github.com/tonurics
 
 Follow me on Twitter for latest announcements relating to new masks and updates:
