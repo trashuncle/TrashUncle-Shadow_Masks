@@ -1,0 +1,33 @@
+####
+# Name: Phosphor Glow
+# Author: TrashUncle
+# Type: CRT
+# Genre: Realistic
+# Sub-Pixel Layout: Monochrome
+####
+
+Resolution=0
+v2
+3,3
+03e,72a,03e
+72a,75d,72a
+03e,72a,03e
+
+Resolution=1080
+v2
+3,5
+03e,72a,03e
+72a,75d,72a
+75d,75d,75d
+72a,75d,72a
+03e,72a,03e
+
+Resolution=1440
+v2
+4,6
+03e,72a,72a,03e
+72a,75d,75d,72a
+75d,75d,75d,75d
+75d,75d,75d,75d
+72a,75d,75d,72a
+03e,72a,72a,03e
