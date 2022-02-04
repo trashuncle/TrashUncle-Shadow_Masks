@@ -1,0 +1,12 @@
+####
+# Name: Amber CRT
+# Author: TrashUncle
+# Type: CRT
+# Genre: Tinted
+####
+
+Resolution=0
+v2
+2,2
+440,600
+640,400

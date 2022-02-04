@@ -1,0 +1,12 @@
+####
+# Name: Green CRT
+# Author: TrashUncle
+# Type: CRT
+# Genre: Tinted
+####
+
+Resolution=0
+v2
+2,2
+280,220
+200,1b0
